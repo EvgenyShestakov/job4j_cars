@@ -1,4 +1,4 @@
-package ru.job4j.cars.model;
+package ru.job4j.cars;
 
 import javax.persistence.*;
 import java.util.HashSet;
